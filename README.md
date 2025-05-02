@@ -1,4 +1,4 @@
-🌸 Hi there, I'm Tehreem Fatima 👩‍💻
+🌼 Hi there, I'm Tehreem Fatima 👩‍💻
 
 Welcome to my GitHub!  
 I'm a final-year Computer Science student driven by a passion for applying **AI, data, and cybersecurity** to solve real-world challenges. From mapping underserved areas to improving digital safety for small businesses, I enjoy working at the intersection of technology and social impact. 🌍
@@ -26,7 +26,7 @@ I'm a final-year Computer Science student driven by a passion for applying **AI,
 
 ## 📬 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/tehreemf)  
-- 🌐 [Portfolio](file:///Users/apple/Downloads/Copy%20of%20tehreemmfatima.pdf) *(PDF link – consider uploading this online!)*  
+- 🌐 [Portfolio](file:///Users/apple/Downloads/Copy%20of%20tehreemmfatima.pdf)   
 - 📄 [My Published Research](https://arxiv.org/pdf/2409.14194)
 
 Thanks for visiting — feel free to explore my work or reach out! 💫
